@@ -1,0 +1,8 @@
+{
+  "name": "@diode/apk",
+  "description": "alpine package manager from node",
+  "version": "0.0.4",
+  "files": [
+    "index.js"
+  ]
+}
